@@ -1,0 +1,36 @@
+ body {
+      text-align: center;
+      background-position: center;
+      background-repeat: no-repeat;
+      color: white;
+      font-family: helvetica;
+      background: black;
+      background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+      background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+      background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+    }
+    p {
+      font-size: 22px;
+    }
+   .profile {
+        margin: 40px 0px 0px 0px;
+        border: 7px solid white;
+        border-radius: 20px;
+    }
+    a {
+
+      color:white;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+      
+    }
+    li {
+        display : inline;
+        padding: 0px 10px 0px 10px;
+    }  
+    
+    .twitter_logo {
+      color:#55ACEE;
+    }
